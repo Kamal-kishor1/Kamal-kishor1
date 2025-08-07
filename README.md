@@ -2,10 +2,10 @@
 
 <h1 align="center"> <b> Hi 👋, I'm Kamal Kishor </b> </h1>
 
-<h3 align="center"> Curious Learner <br>Way towards full-stack developer </h3>
+<h3 align="center"> Curious Learner <br>Way towards machine learning </h3>
 
 
-- 🌱 I’m currently learning  React, Mysql and MongoDb...
+- 🌱 I’m currently learning  tensorflow, pytorch and computer-vision...
 - ⚡ Hobby : Reading...
 - 📫 How to reach me  john750wick030@gmail.com
 
