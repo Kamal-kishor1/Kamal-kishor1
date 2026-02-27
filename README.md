@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="200" style="border-radius:90%;"/>
+  <img src="profile.png" width=50%/>
 </p>
 
 <h1 align="center"> <b> Hi 👋, I'm Kamal Kishor </b> </h1>
