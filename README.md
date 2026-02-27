@@ -1,4 +1,4 @@
-<img src="profile_2.png" width=50%/ >
+<center><img src="profile_2.png" width=50%/ ></center>
 
 <h1 align="center"> <b> Hi 👋, I'm Kamal Kishor </b> </h1>
 
