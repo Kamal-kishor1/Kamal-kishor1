@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kamal-kishor1/Kamal-kishor1/main/profile_1.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/Kamal-kishor1/Kamal-kishor1/main/profile_2.png" width="600" height="300"/>
 </p>
 
 <h1 align="center"> <b> Hi 👋, I'm Kamal Kishor </b> </h1>
