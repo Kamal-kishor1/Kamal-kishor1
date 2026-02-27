@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/2781365.png">
+<img src="profile_1.png" width=100%/ >
 
 <h1 align="center"> <b> Hi 👋, I'm Kamal Kishor </b> </h1>
 
