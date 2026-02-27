@@ -1,7 +1,7 @@
 <!-- ===================== DARK GLASS BACKGROUND ===================== -->
 <div align="center">
 
-<img src="profile_1.png" width="550"/>
+<img src="profile_2.png" width="550"/>
 
 <h1 style="background: linear-gradient(90deg,#00F7FF,#7B61FF,#FF00C8);
 -webkit-background-clip: text;
@@ -34,39 +34,49 @@ Designing deployable AI systems at the intersection of perception, language, and
 
 ---
 
-# 🏆 Research & Systems Portfolio
+---
 
-<div align="center">
+## 🏆 Research & Systems Portfolio
 
-<table>
-<tr>
-<td width="33%" align="center">
+### 👁️ Computer Vision Research Lab  
+Advanced practical implementations covering:
 
-<a href="https://github.com/Kamal-kishor1/Computer-Vision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamal-kishor1&repo=Computer-Vision&theme=tokyonight&hide_border=true"/>
-</a>
+- Feature extraction & image processing  
+- Classical ML + Deep Learning models  
+- Real-world CV pipelines  
+- Dataset experimentation & model evaluation  
 
-</td>
+> Exploring perception systems for intelligent machines.
 
-<td width="33%" align="center">
+🔗 https://github.com/Kamal-kishor1/Computer-Vision  
 
-<a href="https://github.com/Kamal-kishor1/Natural-Language-Processing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamal-kishor1&repo=Natural-Language-Processing&theme=tokyonight&hide_border=true"/>
-</a>
+---
 
-</td>
+### 🧠 Natural Language Processing Systems  
+Applied NLP projects including:
 
-<td width="33%" align="center">
+- Text preprocessing pipelines  
+- Vectorization techniques (BoW, TF-IDF)  
+- Classification architectures  
+- Model optimization & evaluation  
 
-<a href="https://github.com/Kamal-kishor1/agro_bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamal-kishor1&repo=agro_bot&theme=tokyonight&hide_border=true"/>
-</a>
+> Building intelligent language understanding systems.
 
-</td>
-</tr>
-</table>
+🔗 https://github.com/Kamal-kishor1/Natural-Language-Processing  
 
-</div>
+---
+
+### 🌾 Agro Bot – Applied AI System  
+Data-driven automation project focused on:
+
+- Agricultural intelligence  
+- Smart decision systems  
+- ML-driven data analysis  
+- Real-world deployment perspective  
+
+> Bridging AI with impact-driven automation.
+
+🔗 https://github.com/Kamal-kishor1/agro_bot  
 
 ---
 
@@ -96,6 +106,31 @@ Designing deployable AI systems at the intersection of perception, language, and
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
 
 </div>
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kamal-kishor">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://kaggle.com/jwick1">
+  <img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<a href="mailto:kamalpandey12345coc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Intelligence is powerful only when it is deployable."</i>
+</p>
+
 <!---
 Kamal-kishor1/Kamal-kishor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
