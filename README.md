@@ -1,116 +1,101 @@
-<!-- ===================== DARK ANIMATED BANNER ===================== -->
-<p align="center">
-  <img src="profile_2.png" width="900"/>
-</p>
+<!-- ===================== DARK GLASS BACKGROUND ===================== -->
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Researcher+%7C+Computer+Vision;Embedded+Intelligence+Engineer;NLP+%7C+Deep+Learning+%7C+Autonomous+Systems;Building+Intelligent+Machines" />
+<img src="profile_1.png" width="550"/>
+
+<h1 style="background: linear-gradient(90deg,#00F7FF,#7B61FF,#FF00C8);
+-webkit-background-clip: text;
+color: transparent;
+font-size: 42px;">
+KAMAL KISHOR
 </h1>
 
-<p align="center">
-  <b>Designing real-world AI systems that bridge algorithms and hardware.</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Researcher;Computer+Vision+Engineer;NLP+Systems+Developer;Embedded+Intelligence+Builder" />
+
+<p>
+Designing deployable AI systems at the intersection of perception, language, and embedded intelligence.
 </p>
 
----
-
-## 🧠 Research Focus
-
-I work at the intersection of:
-
-- 🔬 Applied Machine Learning  
-- 👁️ Vision-Based Intelligence  
-- 🗣️ Natural Language Systems  
-- 🤖 Autonomous Embedded Systems  
-- ⚡ Real-Time AI Deployment  
-
-My goal is to move beyond models → toward deployable intelligence.
+</div>
 
 ---
 
-## 🌌 Technical Universe
+## 🧠 Research Domains
 
-<p align="center">
-  
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
-![Arduino](https://img.shields.io/badge/Embedded_AI-111111?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-111111?style=for-the-badge)
+<div align="center">
 
-</p>
+| Vision Intelligence | Language Systems | Embedded AI |
+|--------------------|------------------|------------|
+| Image Processing | NLP Pipelines | Hardware Integration |
+| Model Optimization | Text Classification | Autonomous Systems |
+| Real-Time Inference | Vectorization Methods | Edge Deployment |
 
----
-
-## 🏆 Flagship Systems
-
-### 🤖 Autonomous Obstacle Avoiding Robot
-Embedded C + Ultrasonic Sensing + Real-Time Navigation  
-> From perception → decision → motion execution.
+</div>
 
 ---
 
-### 🎭 Real-Time Emotion Recognition Engine
-CNN-based facial analysis system  
-Live inference using OpenCV pipeline.
+# 🏆 Research & Systems Portfolio
 
----
+<div align="center">
 
-### 🌿 Vision-Based Plant Health Classifier
-Feature extraction + ML classification for agricultural automation.
+<table>
+<tr>
+<td width="33%" align="center">
 
----
-
-### 🧠 NLP Spam Intelligence Engine
-End-to-end text pipeline  
-Vectorization → Model Selection → 95%+ accuracy.
-
----
-
-## 📊 GitHub Intelligence Metrics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kamal-kishor1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamal-kishor1&theme=tokyonight&hide_border=true" height="165"/>
-
-</p>
-
----
-
-## 🔬 Current Research Direction
-
-- Efficient Deep Learning for Edge Devices  
-- Vision + Robotics Integration  
-- Lightweight NLP Architectures  
-- Embedded AI Deployment Optimization  
-
----
-
-## 🌐 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/kamal-kishor">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Kamal-kishor1/Computer-Vision">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamal-kishor1&repo=Computer-Vision&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://kaggle.com/jwick1">
-  <img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle"/>
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/Kamal-kishor1/Natural-Language-Processing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamal-kishor1&repo=Natural-Language-Processing&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="mailto:kamalpandey12345coc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/Kamal-kishor1/agro_bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamal-kishor1&repo=agro_bot&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Intelligence is powerful only when it is deployable."</i>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kamal-kishor1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamal-kishor1&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🌌 Current Exploration
+
+- Efficient Deep Learning Architectures  
+- Real-Time Vision Systems  
+- Lightweight NLP Models  
+- Embedded AI Optimization  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
+
+</div>
 <!---
 Kamal-kishor1/Kamal-kishor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
