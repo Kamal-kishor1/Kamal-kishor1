@@ -111,7 +111,7 @@ Data-driven automation project focused on:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/kamal-kishor">
+<a href="https://www.linkedin.com/in/kamal-pandey-47b63a258/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -119,7 +119,7 @@ Data-driven automation project focused on:
   <img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle"/>
 </a>
 
-<a href="mailto:kamalpandey12345coc@gmail.com">
+<a href="mailto:john750wick030@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
 </a>
 
